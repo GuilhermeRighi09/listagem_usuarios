@@ -48,7 +48,6 @@
     "is-glob": "^4.0.3",
     "json5": "^2.2.3",
     "lightningcss": "^1.33.0",
-    "lightningcss-win32-x64-msvc": "^1.33.0",
     "lmdb": "^2.8.5",
     "math-intrinsics": "^1.1.0",
     "mime-db": "^1.52.0",
